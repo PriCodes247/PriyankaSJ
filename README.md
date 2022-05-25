@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PriCodes
+- 👋 Hi, I’m @PriCodes247
 - 👀 I’m interested in Web Development, Neuroscience, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Neuroscience and Machine Learning
